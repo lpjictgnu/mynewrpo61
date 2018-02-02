@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: au-syd.mybluemix.net
-  name: MyNewApp6875
-  host: MyNewApp6875
+  name: ECADPL61
+  host: ECADPL61
   disk_quota: 1024M
